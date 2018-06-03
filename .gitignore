@@ -1,4 +1,11 @@
-# dotenv environment variables file
-.env
+
+# Yarn Integrity file
+.Yarn-Integrity
+
 .cache
 dist
+
+
+# dotenv environment variables file
+.env
+
