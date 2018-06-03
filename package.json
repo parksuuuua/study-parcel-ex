@@ -1,0 +1,21 @@
+{
+  "name": "study-parcel-ex",
+  "version": "1.0.0",
+  "description": "setting up a professional React project with Parcel as a code bundler. (academy nomadcoder)",
+  "main": "index.js",
+  "repository": "git@github.com:parksuuuua/study-parcel-ex.git",
+  "author": "Sua Park <parksuuuua@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
